@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+node_modules
+
+#FRONT
+frontend/node_modules
+
+#BACK
+backend/node_modules
